@@ -96,12 +96,6 @@ Covid19/
    - Display key metrics
    - Show data tables
 
-## Usage
-
-1. Open the application in your web browser (default: http://localhost:8501)
-2. Use the sidebar to select a state or "All India"
-3. View the interactive visualizations and metrics
-4. Hover over data points to see detailed information
 
 ## Features in Detail
 
