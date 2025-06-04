@@ -125,8 +125,8 @@ def create_visualizations(state_data, selected_state):
     )
     
     fig.update_layout(
-        height=800, 
-        width=1200, 
+        height=1000, 
+        width=1500, 
         title_text=f"COVID-19 Trends in {selected_state}",
         showlegend=True,
         hovermode='x unified'
@@ -142,7 +142,7 @@ def create_visualizations(state_data, selected_state):
 
 # Main Streamlit app
 def main():
-    st.title("COVID-19 Trends Analysis")
+    st.title("COVID-19 Trends Analysis 😷💉🏥")
     
     # Load and clean data
     cases_df = load_data()
