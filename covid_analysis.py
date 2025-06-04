@@ -142,7 +142,7 @@ def create_visualizations(state_data, selected_state):
 
 # Main Streamlit app
 def main():
-    st.title("COVID-19 Trends Analysis - India")
+    st.title("COVID-19 Trends Analysis")
     
     # Load and clean data
     cases_df = load_data()
